@@ -12,13 +12,10 @@ A polished end-to-end data science project that explores **credit card customer 
 ## 📸 Screenshots
 
 ### 🏠 Dashboard Home
-![Dashboard Home](outputs/figures/home_page.png)
+![Dashboard Home](outputs/figures/dashboard_home.png)
 
 ### 📊 Churn Split
 ![Churn Split](outputs/figures/churn_split.png)
-
-### 🔥 Age vs Churn
-![Age vs Churn](outputs/figures/age_churn.png)
 
 ### 🧠 Correlation Heatmap
 ![Correlation Heatmap](outputs/figures/heatmap.png)
