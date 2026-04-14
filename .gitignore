@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+outputs/models/
+outputs/figures/
+data/processed/
