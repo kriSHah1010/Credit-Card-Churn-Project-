@@ -61,34 +61,6 @@ This project answers:
 
 ---
 
-## 📂 Folder Structure
-
-```text
-Credit-Card-Churn-Project/
-├── app/
-│   └── app.py
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-│   └── 1.eda.ipynb
-├── outputs/
-│   ├── figures/
-│   └── models/
-├── reports/
-│   └── final_report.md
-├── SQL/
-│   └── queries.sql
-├── src/
-│   ├── __init__.py
-│   ├── data_cleaning.py
-│   ├── eda.py
-│   ├── features.py
-│   ├── train_model.py
-│   └── utils.py
-├── README.md
-└── requirements.txt
-```
 ## 🔎 EDA Summary
 
 * Churn rate varies across customer segments
