@@ -89,11 +89,6 @@ Credit-Card-Churn-Project/
 ├── README.md
 └── requirements.txt
 ```
-
----
-
-
-
 ```
 
 ## 🔎 EDA Summary
