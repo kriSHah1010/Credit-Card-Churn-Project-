@@ -89,8 +89,6 @@ Credit-Card-Churn-Project/
 ├── README.md
 └── requirements.txt
 ```
-```
-
 ## 🔎 EDA Summary
 
 * Churn rate varies across customer segments
