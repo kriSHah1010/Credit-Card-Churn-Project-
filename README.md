@@ -8,7 +8,7 @@
 A polished end-to-end data science project that explores **credit card customer churn**, identifies key churn drivers, and presents the findings in an interactive **Streamlit dashboard**. 
 
 --- 
-
+ 
 ## 📸 Screenshots
 
 ### 🏠 Dashboard Home
